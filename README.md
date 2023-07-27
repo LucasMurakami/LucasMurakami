@@ -19,8 +19,8 @@
 
 <p align="center">
 <a href="https://github.com/LucasMurakami">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmurakami&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmurakami&layout=compact&theme=dark&langs_count=6&hide=jupyter%20Notebook" />
+  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmurakami&theme=dark"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmurakami&layout=compact&theme=dark&langs_count=6&hide=jupyter%20Notebook" />
 </a>
 </p>
 
