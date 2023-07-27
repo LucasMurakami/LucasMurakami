@@ -15,6 +15,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,react" />
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,postgres,idea,vscode" />
 
 
 ### ⚙️ &nbsp;GitHub Analytics
