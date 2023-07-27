@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,react" />
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,git,github,postman" />
 
 
 ### ⚙️ &nbsp;GitHub Analytics
