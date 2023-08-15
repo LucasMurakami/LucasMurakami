@@ -10,7 +10,6 @@
 ✉️ &nbsp;You can shoot me an email at lucaskaitomurakami@gmail.com and I'll try to respond asap!
 
 
-
 ### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,react" />
