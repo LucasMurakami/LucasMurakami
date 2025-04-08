@@ -1,10 +1,9 @@
 # Hi there!
 
-### 👨🏻‍💻 &nbsp;About Me
+### &nbsp;About Me
 
-🧒🏻 &nbsp;My name is Lucas Murakami and I'm studying to become a Full Stack Developer\
-🎓 &nbsp;I'm currently in the seventh semester of Computer Science at Unisinos.\
-💻 &nbsp;In my free time, I like to play video games.\
+My name is Lucas Murakami and I'm Full Stack Developer. I'm from Brazil, living in Rio Grande do Sul. \
+I'm currently in the seventh semester of Computer Science at Unisinos.\
 ✉️ &nbsp;You can shoot me an email at lucaskaitomurakami@gmail.com and I'll try to respond asap!
 
 
